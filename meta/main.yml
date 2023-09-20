@@ -2,8 +2,8 @@ galaxy_info:
   role_name: astudio_test_role
   author: Astudio
   description: A test role
-  company: '-'
-  issue_tracker_url: '-'
+  company: My Company
+  issue_tracker_url: company.com
   license: MIT
   min_ansible_version: '1.2'
   min_ansible_container_version: '1.3'
