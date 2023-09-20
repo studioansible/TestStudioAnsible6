@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: astudio_test_role
   author: Astudio
-  description: A test role
+  description: A test role and 4th attempt at publishing this role
   company: My Company
   issue_tracker_url: company.com
   license: MIT
