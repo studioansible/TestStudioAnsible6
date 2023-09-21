@@ -1,6 +1,8 @@
 dependencies:
   - role: dhoeric.aws-ssm
     version: v1.0.2
+  - role: geerlingguy.java
+    version: 2.3.1
 galaxy_info:
   role_name: astudio_test_role
   author: Astudio
